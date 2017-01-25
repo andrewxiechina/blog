@@ -35,6 +35,7 @@ We once again see a healthy percentage increase of “Net Sales” at a faster p
 
 ## Discussion of ROA, PM and ATO and how they have changed
 Nautilus Inc.’s return on assets has declined over the past four years due to a combination of decreasing asset turnover and profit margins. Nautilus Inc.’s asset turnover ratios have declined in every year since 2012, driven by larger increases in asset percentages relative to sales growth percentages. A large part of Nautilus Inc.’s asset growth, was in the form of inventory. For 2014 Nautilus Inc.’s inventories increased $9.1 million to $24.9 million, compared to $15.8 million as of December 31, 2013, due to higher revenue, additional products, the opening of a new distribution center, and the west coast port slowdown that caused delayed deliveries by 15-25 days. For 2015 the company’s inventory growth was driven by a large acquisition (Octane Fitness, LLC), higher revenue and the addition of new products.
+
 Except for 2013 Nautilus Inc.’s profit margins have generally trended downward over the past four years. In 2013 the company recorded an income tax benefit of $38.9 million related to the reduction of their existing valuation allowance, which skewed profit margins. Otherwise, Nautilus Inc. has reported profit margins in the 6% - 8% range.
 
 by Kevin Cussen, Michael Dame, Andy Xie
